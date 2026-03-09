@@ -31,6 +31,6 @@ Ao final da execução, o programa gera um relatório com:
 
 ## 🚀 Como Rodar
 1. Compile o código:
-   ```$ gcc robo.c -o robo.exe
+   $ gcc robo.c -o robo.exe
 2. 
-   ```./robo < mapa_facil.txt
+   ./robo < mapa_facil.txt
